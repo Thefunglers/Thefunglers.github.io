@@ -1,0 +1,16 @@
+{
+"companyName": "The Funglers",
+"productName": "Map Displayer",
+"productVersion": "0.1",
+"dataUrl": "Displayer WebGL Build.data.unityweb",
+"wasmCodeUrl": "Displayer WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Displayer WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
